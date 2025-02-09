@@ -20,24 +20,29 @@
     }
 }*/
 
-
+//---------------------------------------------------------------------------------------------------------------------------//
+// Approach 2 -> Using HashMap
+// Time Complexity -> O(n)
+// Space Complexity -> O(n)
 class Solution{
     public long countBadPairs(int[] nums){
         int n = nums.length;
         long res = 0;
 
+        // Convert nums[i] to nums[i] - i
         for(int i=0;i<n;i++){
             nums[i] = nums[i] - i;
         }
 
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(nums[0], 1);
+        Map<Integer, Integer> map = new HashMap<>(); // key -> Number, value -> frequency
+        map.put(nums[0], 1); // first number & its frequency in map
 
         for(int i=1;i<n;i++){
-            int countOfJ = map.getOrDefault(nums[i], 0);
-            int totalPairs = i;
-            res += totalPairs - countOfJ;
+            int countOfJ = map.getOrDefault(nums[i], 0); // Count of previous occurrences of nums[i] (before ith index)
+            int totalPairs = i; // total number of previous elements (before ith index (0 to i-1))
+            res += totalPairs - countOfJ; // Bad pairs = totalPairs - good pairs
 
+            // Correctly update the frequency map
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
         return res;
