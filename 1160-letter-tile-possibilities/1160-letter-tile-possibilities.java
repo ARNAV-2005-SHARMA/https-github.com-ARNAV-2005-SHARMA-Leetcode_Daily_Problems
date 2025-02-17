@@ -26,7 +26,7 @@
 
         StringBuilder curr = new StringBuilder();
         boolean vis[] = new boolean[n];
-        Set<String> set = new HashSet<>();
+        Set<String> set = new HashSet<>(); // Store the unique sequence
 
         solve(tiles, vis, set, curr);
         return set.size()-1; // Subtract 1 to exclude the empty sequence
