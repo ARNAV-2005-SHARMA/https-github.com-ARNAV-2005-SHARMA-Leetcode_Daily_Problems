@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0907-koko-eating-bananas](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0907-koko-eating-bananas) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
