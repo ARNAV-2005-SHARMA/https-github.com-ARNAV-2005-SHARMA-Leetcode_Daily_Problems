@@ -21,7 +21,9 @@
     }
 }*/
 
-
+// Approach 2 -> Using Prefix-sum Array
+// Time Complexity -> O(n)
+// Space Complexity -> O(n)
 class Solution{
     public int numOfSubarrays(int[] arr) {
         int n = arr.length;
@@ -34,14 +36,14 @@ class Solution{
         }
 
         int count = 0;
-        int evenC = 1;
-        int oddC = 0;
+        int evenC = 1; // evenC is 1 (In starting prefix sum  is 0 and 0 is Even number then even count is 1)
+        int oddC = 0; // oddC store the odd sum count in prefix array
 
         for(int i=0;i<n;i++){
-            if(p[i]%2==0){
+            if(p[i]%2==0){ // odd + even = odd
                 count = (count+oddC) % mod;
                 evenC++;
-            }else{
+            }else{ // even + odd = odd
                 count = (count+evenC) % mod;
                 oddC++;
             }
