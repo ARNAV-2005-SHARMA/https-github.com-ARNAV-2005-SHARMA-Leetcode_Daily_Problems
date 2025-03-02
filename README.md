@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
