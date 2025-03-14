@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0907-koko-eating-bananas](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Linked List
 |  |
 | ------- |
