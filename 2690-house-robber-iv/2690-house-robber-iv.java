@@ -54,18 +54,19 @@
 
 
 //-----------------------------------------------------------------------------------------------------------------------//
-
-
+// Approach 3 -> Using Binary Search
+// Time Complexity -> O(log(maxC) * n)
+// Space Complexity -> O(1)
 class Solution{
     public boolean isSolve(int[] nums, int mid, int k){
         int house = 0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]<=mid){
                 house++;
-                i++;
+                i++; // skipping ajdacent house
             }
-        }
-        return house >=k ;
+        } 
+        return house >=k; // We managed to rob atleast k houses
     }
     public int minCapability(int[] nums, int k){
         int n = nums.length;
@@ -83,7 +84,7 @@ class Solution{
         int res = 0;
 
         while(left <= right){
-            int mid = left + (right - left) / 2;
+            int mid = left + (right - left) / 2; // mid =  capability
 
             if(isSolve(nums, mid, k)==true){
                 res = mid;
