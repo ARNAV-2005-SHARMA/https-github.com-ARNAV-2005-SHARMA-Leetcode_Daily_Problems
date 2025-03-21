@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1160-letter-tile-possibilities) |
 | [2434-design-a-number-container-system](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1160-letter-tile-possibilities) |
 | [2448-count-number-of-bad-pairs](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2456-construct-smallest-number-from-di-string) |
