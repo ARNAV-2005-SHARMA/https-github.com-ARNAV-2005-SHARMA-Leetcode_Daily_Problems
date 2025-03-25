@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3430-count-days-without-meetings](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/3430-count-days-without-meetings) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/ARNAV-2005-SHARMA/https-github.com-ARNAV-2005-SHARMA-Leetcode_Daily_Problems/tree/master/3430-count-days-without-meetings) |
 ## Data Stream
 |  |
 | ------- |
