@@ -1,3 +1,6 @@
+// Approach 1 -> Brute Force 
+// Time Complexity -> O(n^3)
+// Space Complexity -> O(1)
 class Solution {
     public int countGoodTriplets(int[] arr, int a, int b, int c) {
         int n = arr.length;
